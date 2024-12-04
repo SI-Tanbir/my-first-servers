@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "brand": "Apple",
+      "model": "iPhone 14 Pro",
+      "price": 999,
+      "features": {
+        "screenSize": "6.1 inch",
+        "battery": "3200mAh",
+        "camera": "48MP",
+        "os": "iOS 16"
+      }
+    },
+    {
+      "id": 2,
+      "brand": "Samsung",
+      "model": "Galaxy S23 Ultra",
+      "price": 1199,
+      "features": {
+        "screenSize": "6.8 inch",
+        "battery": "5000mAh",
+        "camera": "200MP",
+        "os": "Android 13"
+      }
+    },
+    {
+      "id": 3,
+      "brand": "Google",
+      "model": "Pixel 7 Pro",
+      "price": 899,
+      "features": {
+        "screenSize": "6.7 inch",
+        "battery": "5000mAh",
+        "camera": "50MP",
+        "os": "Android 13"
+      }
+    },
+    {
+      "id": 4,
+      "brand": "OnePlus",
+      "model": "11",
+      "price": 699,
+      "features": {
+        "screenSize": "6.7 inch",
+        "battery": "5000mAh",
+        "camera": "50MP",
+        "os": "Android 13"
+      }
+    },
+    {
+      "id": 5,
+      "brand": "Xiaomi",
+      "model": "13 Pro",
+      "price": 799,
+      "features": {
+        "screenSize": "6.73 inch",
+        "battery": "4820mAh",
+        "camera": "50MP",
+        "os": "Android 13"
+      }
+    },
+    {
+      "id": 6,
+      "brand": "Sony",
+      "model": "Xperia 1 V",
+      "price": 1299,
+      "features": {
+        "screenSize": "6.5 inch",
+        "battery": "5000mAh",
+        "camera": "48MP",
+        "os": "Android 13"
+      }
+    },
+    {
+      "id": 7,
+      "brand": "Oppo",
+      "model": "Find X6 Pro",
+      "price": 899,
+      "features": {
+        "screenSize": "6.82 inch",
+        "battery": "5000mAh",
+        "camera": "50MP",
+        "os": "Android 13"
+      }
+    },
+    {
+      "id": 8,
+      "brand": "Huawei",
+      "model": "P60 Pro",
+      "price": 849,
+      "features": {
+        "screenSize": "6.67 inch",
+        "battery": "4815mAh",
+        "camera": "48MP",
+        "os": "HarmonyOS 3.1"
+      }
+    },
+    {
+      "id": 9,
+      "brand": "Realme",
+      "model": "GT 3",
+      "price": 699,
+      "features": {
+        "screenSize": "6.74 inch",
+        "battery": "4600mAh",
+        "camera": "50MP",
+        "os": "Android 13"
+      }
+    },
+    {
+      "id": 10,
+      "brand": "Motorola",
+      "model": "Edge+ (2023)",
+      "price": 799,
+      "features": {
+        "screenSize": "6.7 inch",
+        "battery": "5100mAh",
+        "camera": "50MP",
+        "os": "Android 13"
+      }
+    }
+  ]
+  
